@@ -6,13 +6,9 @@
 - I’m looking to collaborate with other developers
 - 2022 Goal: Learn more about ASP.NET
 
----
-
 ### Connect with me:
 
 [![vk](VK.svg)][vk]
-
----
 
 <img alt="Kamishiro Iyamoto's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KamishiroIyamoto&title_color=ffffff&icon_color=ffffff&bg_color=0d1117&text_color=ffffff&border_color=ffffff" />
 
