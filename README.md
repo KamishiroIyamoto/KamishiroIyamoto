@@ -1,6 +1,6 @@
 # Hi there, I'm [Kamishiro Iyamoto][vk].
 
-## I'm a Student and Developer
+### I'm a Student and Developer
 
 - I’m currently learning TypeScript and ReactJS
 - I’m looking to collaborate with other developers
@@ -10,7 +10,8 @@
 
 ### Connect with me:
 
-[![vk](./img/VKlight.svg)][vk]
+[![vk](./img/VKdark.png)][vk]
+[![vk](./img/VKlight.png)][vk]
 &nbsp;&nbsp;
 
 <img alt="Kamishiro Iyamoto's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KamishiroIyamoto&title_color=ffffff&icon_color=ffffff&bg_color=0d1117&text_color=ffffff&border_color=ffffff" />
